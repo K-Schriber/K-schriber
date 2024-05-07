@@ -10,6 +10,6 @@
   
   <p align="center">
     Visitor count<br>
-    <img src="https://profile-counter.glitch.me/SophieWalden/count.svg" />
+    <img src="https://profile-counter.glitch.me/K-Schriber/count.svg" />
   </p>
 </div>
